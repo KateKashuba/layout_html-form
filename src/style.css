@@ -1,8 +1,9 @@
-/* styles go here */
+
 .input {
   padding-top: 10px;
+  display: block;
 }
 
-fieldset {
+.field {
   margin: 8px 2px 20px;
 }
